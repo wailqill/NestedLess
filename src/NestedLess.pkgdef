@@ -1,0 +1,19 @@
+[$RootKey$\Languages\File Extensions\.less]
+@="{A764E898-518D-11d2-9A89-00C04F79EFC3}"
+"Name"="Less CSS"
+ 
+[$RootKey$\Editors\{A764E89A-518D-11d2-9A89-00C04F79EFC3}\Extensions]
+"less"=dword:00000028
+ 
+[$RootKey$\Projects\{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}\FileExtensions\.less]
+"DefaultBuildAction"="Content"
+ 
+[$RootKey$\Projects\{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}\RelatedFiles\.ascx]
+".js"=dword:00000001
+".css"=dword:00000001
+".less"=dword:00000001
+ 
+[$RootKey$\Projects\{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}\RelatedFiles\.aspx]
+".js"=dword:00000001
+".css"=dword:00000001
+".less"=dword:00000001
