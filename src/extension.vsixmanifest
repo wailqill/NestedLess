@@ -3,11 +3,11 @@
   <Identifier Id="NestedLess.VisualStudio2010">
     <Name>Nested Less</Name>
     <Author>Glenn Nilsson</Author>
-    <Version>1.1</Version>
+    <Version>1.3</Version>
     <Description xml:space="preserve">Let .less files get syntax highlighting as CSS.
 Also make js/css/less files nest below aspx/ascx files.</Description>
     <Locale>1033</Locale>
-    <MoreInfoUrl>http://www.dotlesscss.com/</MoreInfoUrl>
+    <MoreInfoUrl>http://github.com/wailqill/NestedLess</MoreInfoUrl>
     <SupportedProducts>
       <VisualStudio Version="10.0">
         <Edition>VST_All</Edition>
